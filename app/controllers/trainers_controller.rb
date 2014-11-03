@@ -9,4 +9,5 @@ class TrainersController < ApplicationController
     @trainer = Trainer.find(params[:id])
   end
 
+
 end
