@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -197,3 +198,7 @@ To flash the appropriate error, use the line ```flash[:error] = @pokemon.errors.
 #### Part 6: EXTRA CREDIT
 
 For easy deployment, reference [Heroku's deployment docs](https://devcenter.heroku.com/articles/getting-started-with-rails4#). You'll need to look at the *Local Workstation Setup* part and the *Deploy your application to Heroku* part.
+=======
+proj1
+=====
+>>>>>>> a654163b3221482836a7df265f710b6dac5a6268
